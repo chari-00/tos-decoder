@@ -46,7 +46,6 @@ tos-decoder/
 │   ├── app.py                        # Main Streamlit application
 │   └── utils.py                      # Utility functions
 ├── requirements.txt                  # Python dependencies
-├── GITHUB_PAGES_DEPLOYMENT.md        # Deployment guide
 └── readme.md                         # This file
 ```
 
@@ -90,3 +89,4 @@ tos-decoder/
 - Secure API communication with Google Gemini
 
 - Professional hosting on GitHub and Streamlit Cloud
+
