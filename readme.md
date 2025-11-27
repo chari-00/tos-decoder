@@ -2,8 +2,6 @@
 
 A beautiful, user-friendly web application that decodes complex Terms of Service documents into plain English using AI. Upload PDFs, images, or paste text to get an easy-to-understand analysis of legal documents.
 
-**🌐 Live Demo**: [https://github.com/chari-00](https://github.com/chari-00)
-
 ## ✨ Features
 - **📁 Multiple Input Methods**: Upload PDF files, images, or paste text directly
 - **🎨 Beautiful UI**: Modern, aesthetic interface with intuitive design
@@ -15,12 +13,7 @@ A beautiful, user-friendly web application that decodes complex Terms of Service
 
 
 ## 🚀 Quick Start
-### **Option 1: Use Live Demo**
-1. **Visit**: [https://github.com/chari-00](https://github.com/chari-00)
-2. **Click "Launch ToS Decoder"** button
-3. **Start analyzing** Terms of Service documents
-
-### **Option 2: Run Locally**
+### **Run Locally**
 1. **Clone repository**:
    ```bash
    git clone https://github.com/chari-00/tos-decoder.git
@@ -95,4 +88,5 @@ tos-decoder/
 - Your data is processed securely
 - No Terms of Service content is stored permanently
 - Secure API communication with Google Gemini
+
 - Professional hosting on GitHub and Streamlit Cloud
